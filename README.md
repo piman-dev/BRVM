@@ -33,9 +33,9 @@
 
 ## How to get games
 
-You can find here some games pre-configured for minimal memory usage: https://github.com/Gamelover7825/BRVM-PreconfiguredGames/releases
+You can find here some games pre-configured for minimal memory usage: https://github.com/piman-dev/BRVM-PreconfiguredGames/releases
 
-You can find here some controls profiles for the _InputBridge_ app: https://github.com/Gamelover7825/BRVM-PreconfiguredGames/releases/tag/controls_ib
+You can find here some controls profiles for the _InputBridge_ app: https://github.com/piman-dev/BRVM-PreconfiguredGames/releases/tag/controls_ib
 
 
 ## How to run the pre-configured games directly from the homescreen
@@ -53,7 +53,7 @@ You can find here some controls profiles for the _InputBridge_ app: https://gith
 
 ## Development builds
 
-You can find here some development builds of the project and experimental pre-configured games: https://github.com/Gamelover7825/BRVM-Development
+You can find here some development builds of the project and experimental pre-configured games: https://github.com/piman-dev/BRVM-Development
 
 
 
