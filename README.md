@@ -5,12 +5,8 @@
 1. Install the provided versions of _Termux_, _Termux-x11_ and _InputBridge_
 2. Put the _BRVM.tar.gz_ file into the _Download_ folder
 3. Run the following commands in _Termux_:
-```
-termux-setup-storage
-```
-```
-tar -zxf /sdcard/Download/BRVM.tar.gz -C /data/data/com.termux/files --recursive-unlink --preserve-permissions
-```
+`termux-setup-storage`
+`tar -zxf /sdcard/Download/BRVM.tar.gz -C /data/data/com.termux/files --recursive-unlink --preserve-permissions`
 4. Restart _Termux_ when a new line appears, then run the virtual machine using the `brvm` command
 5. Wait until the desktop is completely set up. Every time you restart _Termux_, run the virtual machine using the `brvm` command
 
