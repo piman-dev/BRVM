@@ -1,4 +1,4 @@
-![1](https://github.com/Gamelover7825/BRVM/blob/main/resources/brvm_logo_large.png)
+![1](https://github.com/Gamelover7825/BRVM/blob/main/resources/brvm_250502.png)
 
 ## Requirements
 **OS:** 64-bit Android 10.0+
