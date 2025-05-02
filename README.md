@@ -1,13 +1,7 @@
 ![1](https://github.com/Gamelover7825/BRVM/blob/main/resources/brvm_250502.png)
 
-## Requirements
-**OS:** 64-bit Android 10.0+
-
-**GPU:** Adreno 610+ _(Mali and PowerVR not supported)_
-
-**RAM:** minimum 6, 8 or 12 GB _(depending on game)_
-
 ## How to install
+
 1. Install the provided versions of _Termux_, _Termux-x11_ and _InputBridge_
 2. Put the _BRVM.tar.gz_ file into the _Download_ folder
 3. Run the following commands in _Termux_:
@@ -19,6 +13,13 @@ tar -zxf /sdcard/Download/BRVM.tar.gz -C /data/data/com.termux/files --recursive
 ```
 4. Restart _Termux_ when a new line appears, then run the virtual machine using the `brvm` command
 5. Wait until the desktop is completely set up. Every time you restart _Termux_, run the virtual machine using the `brvm` command
+
+### System requirements 
+**OS:** 64-bit Android 10.0+
+
+**GPU:** Adreno 610+ _(Mali and PowerVR not supported)_
+
+**RAM:** minimum 6, 8 or 12 GB _(depending on game)_
 
 ### Recommended Termux-x11 settings
 
