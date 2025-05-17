@@ -71,9 +71,11 @@ You can find here some development builds of the project and experimental pre-co
 
 **Fredrick Fornwall:** Termux
 
+**Ilya114:** Box64Droid, one of the emulators which the project is built on the top of
+
 **JeezDisReez:** glibc prefix for Termux
 
-**olegos2:** Mobox, the emulator which the project is built on the top of
+**olegos2:** Mobox, one of the emulators which the project is built on the top of
 
 **ptitSeb:** Box64 and Box86 compatibility layers
 
