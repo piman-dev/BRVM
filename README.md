@@ -39,7 +39,7 @@ You can find here some controls profiles for the _InputBridge_ app: https://gith
 
 
 ## For Android 14.0+ users
-In spring 2025, the BriarRose Virtual Machine encountered major compatibility issues on new devices, and fixing the Termux packages was unsuccessful. The pre-configured games are _still supported_ by the project but they are now preset for some specific builds of other emulators, which are available here: https://github.com/piman-dev/BRVM-Development/releases/tag/alternatives
+In spring 2025, the BriarRose Virtual Machine encountered major compatibility issues on new devices, and fixing the Termux packages was unsuccessful. The pre-configured games are _still supported_ by the project but they are now preset for some specific builds of other Wine-based emulators, which are available here: https://github.com/piman-dev/BRVM-Development/releases/tag/alternatives
 
 
 ## How to run the pre-configured games directly from the homescreen
