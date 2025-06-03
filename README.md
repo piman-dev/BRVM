@@ -14,7 +14,7 @@
 5. Wait until the desktop is completely set up. Every time you restart _Termux_, run the virtual machine using the `brvm` command
 
 ### System requirements 
-**OS:** 64-bit Android 10.0+
+**OS:** 64-bit Android from 10.0 up to 13.0
 
 **GPU:** Adreno 610+ _(Mali and PowerVR not supported)_
 
@@ -36,6 +36,10 @@
 You can find here some games pre-configured for minimal memory usage: https://github.com/piman-dev/BRVM-PreconfiguredGames/releases
 
 You can find here some controls profiles for the _InputBridge_ app: https://github.com/piman-dev/BRVM-PreconfiguredGames/releases/tag/controls_ib
+
+
+## For Android 14.0+ users
+In spring 2025, the BriarRose Virtual Machine encountered major compatibility issues on new devices, and fixing the Termux packages was unsuccessful. The pre-configured games are still supported by the project but they are preset for specific builds of some other emulators, which are available here: https://github.com/piman-dev/BRVM-Development/releases/tag/alternatives
 
 
 ## How to run the pre-configured games directly from the homescreen
@@ -71,11 +75,9 @@ You can find here some development builds of the project and experimental pre-co
 
 **Fredrick Fornwall:** Termux
 
-**Ilya114:** Box64Droid, one of the emulators which the project is based on
-
 **JeezDisReez:** glibc prefix for Termux
 
-**olegos2:** Mobox, one of the emulators which the project is based on
+**olegos2:** Mobox, the emulator which the project is based on
 
 **ptitSeb:** Box64 and Box86 compatibility layers
 
